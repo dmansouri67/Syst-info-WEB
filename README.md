@@ -2,6 +2,7 @@
 1. Préparer l’environnement de développement 
 • Créer votre repo Github
 • Créer un dossier intitulé : tp01_nom_prenom
+
 2. Ecrire une page HTML 5 
 Cette page doit inclure les éléments suivants : 
 • La structuration par défaut d’une page HTML 5 ; 
